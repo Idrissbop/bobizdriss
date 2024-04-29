@@ -8,7 +8,7 @@
     "success_url": "",
     "stack": "container",
      "env": {
-            "BOBIZASESSION": {
+            "BOBIZ_SESSION": {
             "description": "qr session code",
             "required": true
              },
